@@ -10,7 +10,7 @@ const Modal = ({ visible, onCancel, title, children }) => {
           <TouchableOpacity style={styles.closeBtn} onPress={onCancel}>
             <Text style={styles.closeIcon}>X</Text>
           </TouchableOpacity>
-          {title && <Text style={styles.title}>Update Target Water</Text>}
+          {title && <Text style={styles.title}>Update The Water Goal</Text>}
           {children}
         </View>
       </View>
