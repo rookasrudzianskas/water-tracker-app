@@ -1,6 +1,5 @@
-# Water Tracker
+# Rokas Water Tracker
 A simple React Native implementation for tracking water daily.
-
 
 **Install packages:**
 ```
