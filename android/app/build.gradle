@@ -1,6 +1,7 @@
 apply plugin: "com.android.application"
 
 import com.android.build.OutputFile
+//entryFile: "app.js"
 
 /**
  * The react.gradle file registers a task for each build variant (e.g. bundleDebugJsAndAssets
@@ -18,7 +19,6 @@ import com.android.build.OutputFile
  *   // the entry file for bundle generation. If none specified and
  *   // "index.android.js" exists, it will be used. Otherwise "index.js" is
  *   // default. Can be overridden with ENTRY_FILE environment variable.
- *   entryFile: "index.android.js",
  *
  *   // https://reactnative.dev/docs/performance#enable-the-ram-format
  *   bundleCommand: "ram-bundle",
