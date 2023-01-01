@@ -5,6 +5,7 @@ Will be published on Google Play and App Store.
 **Install packages:**
 ```
 $ yarn install
+$ or npm install
 $ cd ios && pod install && cd ..
 ```
 
