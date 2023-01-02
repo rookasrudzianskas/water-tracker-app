@@ -12,5 +12,6 @@ $ cd ios && pod install && cd ..
 **Run dev:**
 ```
 $ yarn ios
+$ npm run ios or npm run android
 $ yarn android
 ```
